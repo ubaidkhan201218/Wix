@@ -1,0 +1,98 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#but1{
+    margin-right: 415px;
+    margin-left: 15px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#but2{
+    margin-left: 415px;
+    margin-right: 10px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+button{
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#h1{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    color: white;
+    
+}
+
+p{
+    text-align: center;
+    margin-top: 180px;
+    color: white;
+}
+
+#p1{
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: underline;
+    color: white;
+    padding-bottom: 40px;
+
+}
+
+header{
+    background-image: url(image.png4.avif);
+    background-size: cover;
+}
+
+.Hero h1{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 50px;
+    font-family:serif;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.child{
+    width: 150px;
+    height: 120px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-image: url(imagetree1.png);
+    background-size: cover;
+
+    
+}
+
+p{
+    color: black;
+    margin-top: 20px;
+}
+
+#learn{
+    text-decoration: underline;
+}
